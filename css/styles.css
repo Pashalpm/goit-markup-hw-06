@@ -861,8 +861,16 @@ img {
     display: flex;
   }
 }
-
-
+@media only screen and (min-width: 768px) {
+  .futer-subscribe {
+    margin-left: 108px;
+  }
+}
+@media only screen and (min-width: 1158px) {
+  .futer-subscribe {
+    margin-left: 0;
+  }
+}
 
 @media only screen and (min-width: 1158px) {
   .futer-subscribe {
