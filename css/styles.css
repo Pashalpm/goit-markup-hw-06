@@ -822,7 +822,9 @@ img {
 .futer-form {
   display: flex;
 }
-
+.futer-form-label {
+  width: 100%;
+}
 @media only screen and (max-width: 767px) {
   .futer-form {
     row-gap: 16px;
@@ -891,7 +893,7 @@ img {
 
 @media only screen and (max-width: 767px) {
   .futer-form-mail {
-    width: 398px;
+    width: 100%;
   }
 }
 
