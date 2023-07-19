@@ -1499,8 +1499,3 @@ img {
   padding: 0;
 
 }
-
-.mobile-menu-link:hover,
-.mobile-menu-link:focus {
-  color: var(--hover-link-color);
-}
