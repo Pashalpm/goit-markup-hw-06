@@ -757,6 +757,7 @@ text-transform: capitalize;
   .container-futer {
     margin-right: 120px;
     margin-left: 0;
+   margin-bottom: 0;
   }
 }
 
