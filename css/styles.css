@@ -227,16 +227,9 @@ img {
 
 
 
-.adr-mail {
-  width: 153px;
-  height: 14px;
+.adr-mail {}
 
-}
-
-.adr-tel {
-  width: 151px;
-  height: 14px;
-}
+.adr-tel {}
 
 @media only screen and (min-width: 1158px) {
   .adr-mail {
